@@ -1,7 +1,17 @@
-<h1>Welcome to Capistrano demo....`</h1>
-<br><h2>Chnage 1</h2>
-<br><h2>Chnage test</h2>
-<br><h2>Chnage test 3</h2>
-<br><h2>Chnage test 4</h2>
-<br><h2>Chnage 5</h2>
-<br><h2>Chnage 6</h2>
+<html>
+  <head>
+    <title>Demo Applicataion</title>
+  </head>
+  <body bgcolor=white>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <h1>Sample Deployment Automation Application</h1>
+        </td>
+      </tr>
+    </table>
+
+    <p>This is the home page for Deployment Automation. </p>
+  </body>
+</html>

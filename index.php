@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Demo Applicataion</title>
+    <title>Demo Application</title>
   </head>
   <body bgcolor=white>
 

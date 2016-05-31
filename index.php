@@ -12,6 +12,6 @@
       </tr>
     </table>
 
-    <p>This is the home page for <b>Deployment Automation</b>.</p>
+    <p>This is the home page for <b>Deployment Automation</b>. This is test</p>
   </body>
 </html>

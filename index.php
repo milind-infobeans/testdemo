@@ -13,6 +13,6 @@
     </table>
 
     <p>This is the home page for <b>Deployment Automation</b>. <i>this is test </i></p>
-    <p>This is the test page please <i>ignore</i> it.</p>
+    <p>This is the test page please <i>ignore...</i> it.</p>
   </body>
 </html>
